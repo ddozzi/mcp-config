@@ -1,3 +1,5 @@
 ## MCP CONFIGS
 
 A repository that makes SMI possible
+
+## THESE FILES ARE NOT MCP SOURCE FILES, THEY ARE MCP CONFIGS
