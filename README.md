@@ -1,5 +1,7 @@
 ## MCP CONFIGS
+### A repository that makes SMI (simple mcp installer) possible
 
-A repository that makes SMI possible
+use this for whatever you want, it should solve most, if not all of the issues with decompiling mcp.
 
-## THESE FILES ARE NOT MCP SOURCE FILES, THEY ARE MCP CONFIGS
+
+
